@@ -12,6 +12,11 @@
           "name": "instagram",
           "url": "https://www.instagram.com",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/angel-alonso-paz-ruiz-038779267/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"

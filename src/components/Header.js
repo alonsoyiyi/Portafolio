@@ -106,6 +106,7 @@ class Header extends Component {
               <h1 className="mb-0">
                 {name}
               </h1>
+              <h3>Dev FullStack en entrenamiento</h3>
               <div className="title-container">
                 <HeaderTitleTypeAnimation />
               </div>
