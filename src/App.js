@@ -96,6 +96,13 @@ class App extends Component {
               sharedBasicInfo={this.state.sharedData.basic_info}
             />}>
           </Route>
+          <Route 
+            path="/article" 
+            element={<About
+              resumeBasicInfo={this.state.resumeData.basic_info}
+              sharedBasicInfo={this.state.sharedData.basic_info}
+            />}>
+          </Route>
         </Routes>
         <Footer 
           sharedBasicInfo={this.state.sharedData.basic_info}
