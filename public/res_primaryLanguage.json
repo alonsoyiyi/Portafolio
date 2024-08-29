@@ -11,12 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "odd-duck",
+        "startDate": "2024",
+        "description": "Proyecto orientado al estudio de mercado para votar por posibles productos elegidos por los empleados y que puedan pasar a producción.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/odd-duck/p1.jpg",
+          "images/portfolio/odd-duck//p2.jpg"
         ],
         "url": "",
         "technologies": [
@@ -35,12 +35,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "galleryOfHorns ",
+        "startDate": "2024",
+        "description": "Proyecto para visualizar una galería de animales con cuernos, filtrarlos y ver sus características usando React.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/portfolio/galleryOfHorns/p1.jpg",
+          "images/portfolio/galleryOfHorns/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,12 +55,12 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "cookie-stand",
+        "startDate": "2024",
+        "description": "Proyecto para mantener un control total de las ventas de una empresa de venta de galletas de salmón en sus diferentes sucursales.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/cookie-stand/p1.jpg",
+          "images/portfolio/cookie-stand/p2.jpg"
         ],
         "url": "https://github.com",
         "technologies": [
