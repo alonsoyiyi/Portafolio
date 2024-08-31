@@ -39,7 +39,7 @@ header {
 	text-align: center;
 	overflow: hidden;
 	// background-color: #db501e;
-	background-image: url("https://images.unsplash.com/photo-1719937051058-63705ed35502?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+	background-image: url("https://images.unsplash.com/photo-1482062364825-616fd23b8fc1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -71,14 +71,14 @@ header .nav {
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
-	border-top: 5px solid #696969;
+	border-top: 5px solid #000000;
 	border-radius: 0 0 5px 5px;
-	background-color: #1fcf12;
-	color: white;
+	background-color: #04f904;
+	color: rgb(0, 0, 0);
 }
 
 .skills-tile {
-	background-color: transparentize(#0b2aef, 0.95);
+	background-color: transparentize(#000000, 0.95);
 	padding: 10px 10px 5px 10px;
 	width: 100px;
 	margin: 5px 0 5px 0;
@@ -103,11 +103,11 @@ header h1 {
 }
 
 .slider-image {
-	border: 5px solid #D7CAAA;
+	border: 5px solid #00ff1a;
 }
 
 .slider-tab {
-	background-color: #D7CAAA;
+	background-color: #ea0303;
 	height: 25px;
 }
 
@@ -121,7 +121,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #cc44f5;
 	overflow: hidden;
 }
 
@@ -140,7 +140,7 @@ header h1 {
 }
 
 .foto div {
-	background: #ffffff;
+	background: #1966e2;
 	display: inline-block;
 	margin: 0 auto 5% auto;
 	padding: 10px 10px 5px;
@@ -219,7 +219,7 @@ header h1 {
 
 #preview {
 	width: 500px;
-	background-color: #ebeaf5;
+	background-color: #1805e3;
 	padding: 15px;
 	position: relative;
 	margin-bottom: 15%;
@@ -354,7 +354,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #e488ec;
 	padding-bottom: 5%;
 }
 
